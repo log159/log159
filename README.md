@@ -12,4 +12,5 @@
 
 |项目英文名|项目中文名|所属范围|介绍|语言|状态|
 |---|---|---|---|---|---|
-|LogChat|Ai聊天|软件|支持L2d及语音功能的Ai聊天客户端！|C/C++/C#/Python|开发中 :white_check_mark:
+|LogChat|日志聊天|软件|支持L2d及语音功能的Ai聊天客户端！|C/C++/C#/Python|开发中 :white_check_mark:
+|BulletGame|弹幕游戏|软件|Qt开发的弹幕游戏|C/C++|停止维护 :red_circle:
