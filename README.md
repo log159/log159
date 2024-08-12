@@ -1,8 +1,20 @@
 ## Hi ! This is log159 !
 
-| <img align="right" src="https://github-readme-stats.vercel.app/api?username=log159&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=log159&layout=compact"> |
-| :----: | :----: |
-| ![log159](https://count.getloli.com/get/@log159) | 
+<table>
+  <thead>
+    <tr>
+      <th>
+        <img align="right" src="https://github-readme-stats.vercel.app/api?username=log159&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"/>
+      </th>
+      <th>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=log159&layout=compact">
+      </th>
+    </tr>
+  </thead>
+
+</table>
+
+![log159](https://count.getloli.com/get/@log159#pic_center)
 
 ### 使用过的编程语言
 - C/C++
