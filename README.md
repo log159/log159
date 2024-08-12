@@ -16,12 +16,14 @@
 
 ![log159](https://count.getloli.com/get/@log159#pic_center)
 
+---
 ### 使用过的编程语言
 - C/C++
 - C#
 - Html/Css/Js
 - Python
 
+---
 |项目英文名|项目中文名|所属范围|介绍|语言|状态|
 |---|---|---|---|---|---|
 |LogChat|日志聊天|软件|支持L2d及语音功能的Ai聊天客户端！|C/C++/C#/Python|开发中 :white_check_mark:
