@@ -22,3 +22,7 @@
 |---|---|---|---|---|---|
 |LogChat|日志聊天|软件|支持L2d及语音功能的Ai聊天客户端！|C/C++/C#/Python|开发中 :white_check_mark:
 |BulletGame|弹幕游戏|软件|Qt开发的弹幕游戏|C/C++|停止维护 :red_circle:
+
+---
+存在证伪的赞助渠道  
+![微信图片_20241027194504 - 副本](https://github.com/user-attachments/assets/2ce5d7ee-bdcf-4e25-b877-4a58c767d611)
