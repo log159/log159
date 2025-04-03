@@ -20,7 +20,7 @@
 ---
 |项目英文名|项目中文名|所属范围|介绍|语言|状态|
 |---|---|---|---|---|---|
-|ShinobuDiary|小忍日记|软件|Cubism 谐波组编辑器|C/C++/Python|开发中 :white_check_mark:
+|ShinobuDiary|小忍日记|软件|Cubism 谐波组编辑器|C/C++|开发中 :white_check_mark:
 |LogChat|日志聊天|软件|支持L2d及语音功能的Ai聊天客户端|C/C++/C#/Python|慢速维护 :arrow_up_small:
 |BulletGame|弹幕游戏|软件|Qt开发的弹幕游戏|C/C++|停止维护 :red_circle:
 
